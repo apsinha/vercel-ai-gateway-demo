@@ -1,4 +1,4 @@
-export const DEFAULT_MODEL = "openai/gpt-5";
+export const DEFAULT_MODEL = "openai/gpt-5-nano";
 
 export const SUPPORTED_MODELS = [
   "amazon/nova-lite",
@@ -11,5 +11,5 @@ export const SUPPORTED_MODELS = [
   "openai/gpt-3.5-turbo",
   "openai/gpt-4o-mini",
   "xai/grok-3",
-  "openai/gpt-5"
+  "openai/gpt-5-nano"
 ];
