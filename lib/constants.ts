@@ -11,5 +11,6 @@ export const SUPPORTED_MODELS = [
   "openai/gpt-3.5-turbo",
   "openai/gpt-4o-mini",
   "xai/grok-3",
-  "openai/gpt-5-nano"
+  "openai/gpt-5-nano",
+  "google/gemini-2.5-flash-image"
 ];
